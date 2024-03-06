@@ -1,0 +1,53 @@
+/*styling for site pages*/
+body {
+	background-color: black;
+	margin: 8%;
+}
+img {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	border-radius: 8%;
+}
+p {
+	color: whitesmoke;
+	font-family: "amarante", "antic didone";
+	text-align: center;
+}
+h1 {
+	color: whitesmoke;
+	font-family: "amarante", "antic didone";
+	text-align: center;
+	border-style: outset;
+	border-width: 4px;
+	border-color: grey;
+	border-radius: 8px;
+	padding: 4px;
+}
+h4 {
+	color: whitesmoke;
+	text-align: center;
+}
+a {
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+a:link {
+	color: red;
+}
+a:visited {
+	color: green;
+}
+.fa-youtube {
+	color: red;
+}
+.footer {
+	position: bottom;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	width: 100%;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}

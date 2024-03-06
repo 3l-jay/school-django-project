@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+	background-repeat: no-repeat;
+	color: whitesmoke;
+	margin: 8%;
+}
+
+body * {
+	font-family: "amarante", "antic didone";
+}
+
+h1 {
+	color: whitesmoke;
+	font-family: "amarante", "antic didone";
+	text-align: center;
+	border-style: outset;
+	border-width: 4px;
+	border-color: grey;
+	border-radius: 8px;
+	padding: 4px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+	font-weight: normal;
+	margin: 0;
+}
+
+a:link {
+	color: red;
+}
+a:visited {
+	color: green;
+}
